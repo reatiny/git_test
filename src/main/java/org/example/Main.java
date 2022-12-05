@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    int a_1 = 0;
+
+    int a_1 = 2;
     int a_11 = 1;
 }
