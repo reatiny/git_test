@@ -14,4 +14,6 @@ public class Main {
     int a_11 = 1;
 
     int a_22 = 22;
+
+    int a_222 = 222;
 }
